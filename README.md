@@ -1,3 +1,3 @@
 ﻿# tinder-swipe-bot
-git remote add origin https://github.com/abhinavprkash/tinder-swipe-bot.git
-git push -u origin master
+Built with Python, Selenium, and Google Chrome. 
+We use web scraping patterns + a finite state machine.
